@@ -1,0 +1,69 @@
+body {
+  background-color: rgb(68, 67, 68);
+}
+.nav-item a {
+  margin-right: 8px;
+  color: grey;
+}
+.nav-item i {
+  margin-right: 5px;
+  color: grey;
+}
+.nav-item:hover {
+  margin-right: 5px;
+  color: #fff;
+  text-shadow: 1px 1px 2px black, 0 0 25px #fff, 0 0 5px #fff;
+}
+.form-control {
+  width: 220px;
+}
+.img-fluid {
+  border-radius: 20px;
+}
+.game {
+  margin-top: 30px;
+  margin-left: 300px;
+  color: #fff;
+}
+.dev {
+  margin-top: 10px;
+  margin-left: 310px;
+  color: #fff;
+}
+.icongame {
+  border-radius: 15;
+  width: 200px;
+  height: 200px;
+  margin-top: -180px;
+  box-shadow: -8px -8px 10px #000;
+  transform: rotateZ(-5deg);
+}
+.warp {
+  background-color:rgb(44, 44, 44);
+  border-radius: 20px;
+  margin-left: 50px;
+}
+p {
+  color: #fff;
+  font-weight: 100px;
+}
+.cara {
+  color: #fff;
+}
+.informasi li {
+  list-style-type: none;
+  padding-bottom: 12px;
+}
+.informasi li i {
+  color: #fff;
+  text-decoration: none;
+  padding-bottom: 5px;
+  margin-right: 20px;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  margin-left: -30px;
+  padding-bottom: 5px;
+}

@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(68, 67, 68);
+}
+.nav-item a {
+  margin-right: 8px;
+  color: grey;
+}
+.nav-item i {
+  margin-right: 5px;
+  color: grey;
+}
+.nav-item:hover {
+  margin-right: 5px;
+  color: #fff;
+  text-shadow: 1px 1px 2px black, 0 0 25px #fff, 0 0 5px #fff;
+}
+.form-control {
+  width: 220px;
+}
+.container .slide img {
+  border-radius: 20px;
+  border: 2px solid lightskyblue;
+}
+.btn-outline-info i {
+  margin-right: 8px;
+}
+.text-center img {
+  border: 1px solid lightskyblue;
+}
+p {
+  color: #fff;
+  font-weight: 100px;
+}
+.informasi li {
+  list-style-type: none;
+  padding-bottom: 12px;
+}
+.informasi li i {
+  color: #fff;
+  text-decoration: none;
+  padding-bottom: 5px;
+  margin-right: 20px;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  margin-left: -30px;
+  padding-bottom: 5px;
+}
